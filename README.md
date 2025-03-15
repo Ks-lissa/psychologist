@@ -179,7 +179,8 @@
             <!DOCTYPE html>
             <button type="submit">Отправить</button>
         </form>
-    </section>
+<!DOCTYPE html>
+</section>
 <!DOCTYPE html>
     <footer>
         <p>&copy; 2023 Психолог. Все права защищены.</p>
@@ -188,10 +189,11 @@
 </html>
 <!DOCTYPE html>
             <label for="message">Сообщение:</label>
-            <textarea id="message" name="message" required></textarea>
+<!DOCTYPE html>
+<textarea id="message" name="message" required></textarea>
             <!DOCTYPE html>
             <button type="submit">Отправить</button>
-        </form>
+       <!DOCTYPE html> </form>
 <!DOCTYPE html>    </section>
 <!DOCTYPE html>
     <footer>
