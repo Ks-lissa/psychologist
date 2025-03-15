@@ -10,6 +10,7 @@
 <body>
     <header>
         <div class="container">
+<!DOCTYPE html>
             <h1>Психологические консультации</h1>
 <!DOCTYPE html>
             <p>Помощь в понимании себя и решении жизненных проблем</p>
@@ -20,7 +21,7 @@
         <h2>О себе</h2>
         <p>Я - сертифицированный психолог с более чем 10 летним опытом работы. Моя цель - помочь людям разобраться в себе и научиться справляться с трудными ситуациями.</p>
     </section>
-
+<!DOCTYPE html>
     <section id="services" class="container">
         <h2>Услуги</h2>
         <ul>
@@ -30,7 +31,7 @@
             <li>Мастер-классы</li>
         </ul>
     </section>
-
+<!DOCTYPE html>
     <section id="testimonials" class="container">
         <h2>Отзывы</h2>
         <blockquote>
@@ -42,7 +43,7 @@
             <cite>- Алексей, 35 лет</cite>
         </blockquote>
     </section>
-
+<!DOCTYPE html>
     <section id="contact" class="container">
         <h2>Связаться со мной</h2>
         <form action="submit_form.php" method="POST">
@@ -54,13 +55,14 @@
             
             <label for="message">Сообщение:</label>
             <textarea id="message" name="message" required></textarea>
-            
+            <!DOCTYPE html>
             <button type="submit">Отправить</button>
         </form>
     </section>
-
+<!DOCTYPE html>
     <footer>
         <p>&copy; 2023 Психолог. Все права защищены.</p>
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
